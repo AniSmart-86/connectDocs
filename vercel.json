@@ -11,13 +11,7 @@
     {
       "src": "backend/index.js",
       "use": "@vercel/node"
-    },
-    {
-      "projects": {
-        "rootDirectory": "frontend"
-      }
     }
-    
   ],
   "routes": [
     {
